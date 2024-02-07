@@ -3,21 +3,26 @@
 git init
 ```
 
-To add the file
+# To add the file
 ```
 git add abc.txt
 ```
 
-To add all the file
+# To add all the file
 ```
 git add .
 ```
 
-To commit the changes
+# To commit the changes
 ```
 git commit -m "this is my first commit"
 ```
-To pull all changes from git
+
+# To push all changes after commit
+```
+git push
+```
+# To pull all changes from git
 ```
 git pull
 ```
